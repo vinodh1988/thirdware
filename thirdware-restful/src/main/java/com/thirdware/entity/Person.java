@@ -1,8 +1,18 @@
 package com.thirdware.entity;
 
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.Id;
+import javax.persistence.Table;
+
+@Entity
+@Table(name="person")
 public class Person {
+	@Id
     private  int sno;
+	@Column(name="name")
     private  String name;
+	@Column(name="city")
     private String city;
     
 	public Person() {
