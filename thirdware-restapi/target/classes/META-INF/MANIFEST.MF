@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: ThirdWareBoot
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: VinodhKumar
+Implementation-Vendor-Id: com.thirdware.springboot
+Build-Jdk: 1.8.0_161
+Implementation-URL: http://projects.spring.io/spring-boot/thirdware-re
+ stapi/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
